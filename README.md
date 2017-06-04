@@ -5,7 +5,7 @@
 
 ![](https://s3.postimg.org/4otzb8u2r/logo.png)
 
-Foi no ultimo Google I/O 2017 que a Google anunciou aquilo que boa parte da comunidade ansiava, sem muita certeza:
+Foi no ultimo Google I/O 2017 que a Google anunciou aquilo que boa parte da comunidade ansiava sem muita certeza:
 
 A adoção da linguagem kotlin como sua linguagem oficial para desenvolvimento de aplicativos android!. Esqueçam Java de vez... LOL! KKKK... brincadeiras a parte...
 
