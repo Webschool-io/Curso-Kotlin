@@ -32,16 +32,16 @@ Cada técnica ensinada, uma por aula, terá o seu conceito corretamente explicad
 
 ### Ementa
 
-- Variáveis(mutáveis e imutáveis), constantes e funções.
-- Classes, enums,interface, propriedades e Smart casts.
-- Loops, for in, ranger, if, else, when.
-- Uso de Arrays, list e extensions em Kotlin.
-- Kotlin Nullable types and Non-Null Types.
-- Lambdas(map, filter, entre outros).
-- A criação de botões e mensagem exibida com Toast na tela.
-- ListView para exibição de uma lista de nomes.
-- A criação de um menu com opções para diferentes activitys. 
-- Criação de abas no aplicativo.
+- **Variáveis(mutáveis e imutáveis), constantes e funções.**
+- **Classes, enums,interface, propriedades e Smart casts.**
+- **Loops, for in, ranger, if, else, when.**
+- **Uso de Arrays, list e extensions em Kotlin.**
+- **Kotlin Nullable types and Non-Null Types.**
+- **Lambdas(map, filter, entre outros).**
+- **A criação de botões e mensagem exibida com Toast na tela.**
+- **ListView para exibição de uma lista de nomes.**
+- **A criação de um menu com opções para diferentes activitys.** 
+- **Criação de abas no aplicativo.**
 
 ### Certificado
 
