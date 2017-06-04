@@ -24,8 +24,8 @@ Como todos vocês sabem, fazemos isso com total amor e carinho. Acreditamos na b
 
 ### Pré-requisitos
 
-**Se você possue interresse em aprender kotlin do zero até android.
-Possue conhecimento em Java mas quer mudar seu background.**
+>**Se você possue interresse em aprender kotlin do zero até android.**
+>**Possue conhecimento em Java mas quer mudar seu background.**
 
 Cada técnica ensinada, uma por aula, terá o seu conceito corretamente explicado, ou seja, o foco do curso é para quem está iniciando.
 
