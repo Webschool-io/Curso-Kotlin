@@ -24,7 +24,7 @@ Como todos vocês sabem, fazemos isso com total amor e carinho. Acreditamos na b
 
 ### Tempo
 
-O curso será gravado e disponibilizado posteriormente no Youtube e terá em média de 20 a 30 minutos com 10 aulas podendo passar disso e será disponibilizado depois que a meta de 50 alunos pagantes for atingida. Esse curso será lançado em Julho.
+O curso será gravado e disponibilizado posteriormente no Youtube e terá em média de 20 a 30 minutos com 10 aulas podendo passar disso e será disponibilizado depois que a meta de 50 alunos pagantes for atingida. Esse curso será lançado em Julho. <b>Apenas os alunos pagantes<b> terão acesso direto ao grupo do curso e diretamente a mim... ainda ganharão um brinde de presente. 
 
 ### Metodologia do curso
 
