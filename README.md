@@ -16,19 +16,36 @@ a Webschool mais uma vez vai disponibilizar um curso bacana para você que quer 
 
 ## O Curso
 
-Como todos vocês sabem, fazemos isso com total amor e carinho. Acreditamos na boa prática para compartilhar conhecimento a todos os que tem sede de aprender. Tudo o que fazemos no que diz respeito aos cursos demanda tempo e dedicação. Gostaríamos do seu apoio para continuarmos com nossos esforços. Contudo estipulamos uma meta de 50 alunos para esse primeiro módulo para o curso no valor simbólico de R$ 25,00 reais.
+Como todos vocês sabem, fazemos isso com total amor e carinho. Acreditamos na boa prática para compartilhar conhecimento e por isso precisamos da sua contribuição. Tudo o que fazemos no que diz respeito aos cursos demanda tempo e dedicação. Gostaríamos do seu apoio para continuarmos com nossos esforços. Contudo estipulamos uma meta de 50 alunos para esse primeiro módulo para o curso no valor simbólico de R$ 25,00 reais.
 
 - Custo: R$25
 - Meta: 50 alunos
 - Data: quando alcançar a meta
 
+### Tempo
+
+O curso será gravado e disponibilizado posteriormente no Youtube e terá em média de 20 a 30 minutos com 10 aulas podendo passar disso e será disponibilizado depois que a meta de 50 alunos pagantes for atingida. Esse curso será lançado em Julho.
+
+### Metodologia do curso
+
+Do conceito teórico, com slides e código na prática, o básico da linguagem até o desenvolvimento do aplicativo Android. 
+
 ### Pré-requisitos
 
-> **Se você possue interresse em aprender Kotlin para android, tem conhecimento em Java mas quer mudar seu background esse curso é para você**
+> **Se você possue interresse em aprender Kotlin para android, tem conhecimento em Java(não obrigatório) mas quer mudar seu background esse curso é para você**
 
 
 Cada técnica ensinada, uma por aula, terá o seu conceito corretamente explicado, ou seja, o foco do curso é para quem está iniciando.
 
+### Informações da conta
+
+Por favor depositar o valor de R$ 25,00 reais na conta:
+Banco: Itaú,
+Nome: Anderson Faro Santana,
+Tipo de conta: Poupança,
+Agência: 1599,
+Conta: 15406 - 7,
+Cpf: 77950143568
 
 ### Ementa
 
