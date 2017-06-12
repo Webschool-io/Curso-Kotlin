@@ -32,7 +32,7 @@ Do conceito teórico, com slides e código na prática, o básico da linguagem a
 
 ### Grupo no Telegram
 
-> **Eu sei que você usa Whatsapp e tal... nada contra.. KKKKKKKKK mas use Telegram, participe do grupo no telegram e fique por dentro**
+> **Eu sei que você usa Whatsapp e tal... nada contra.. KKKKKKKKK mas use Telegram, participe do grupo no Telegram e fique por dentro deste curso sobre Kotlin**
 
 https://t.me/webschoolkotlin
 
