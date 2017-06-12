@@ -30,6 +30,14 @@ O curso será gravado e disponibilizado posteriormente depois que a <b>meta for 
 
 Do conceito teórico, com slides e código na prática, o básico da linguagem até o desenvolvimento do aplicativo Android. 
 
+### Grupo no Telegram
+
+Eu sei que você usa Whatsapp e tal... nada contra.. KKKKKKKKK mas use telegram, informe-se e participe.
+
+https://t.me/webschoolkotlin
+
+
+
 ### Pré-requisitos
 
 > **Se você possue interresse em aprender Kotlin para android, tem conhecimento em Java(não obrigatório) mas quer mudar seu background esse curso é para você**
