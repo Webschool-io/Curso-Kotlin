@@ -32,7 +32,7 @@ Do conceito teórico, com slides e código na prática, o básico da linguagem a
 
 ### Grupo no Telegram
 
-Eu sei que você usa Whatsapp e tal... nada contra.. KKKKKKKKK mas use telegram, informe-se e participe.
+> **Eu sei que você usa Whatsapp e tal... nada contra.. KKKKKKKKK mas use Telegram, informe-se e participe**
 
 https://t.me/webschoolkotlin
 
