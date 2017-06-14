@@ -92,3 +92,7 @@ Será feito via depósito diretamente na minha conta.
 
 Todos os exercicios serão colocados em uma *issue* esperando pela resposta do aluno.
 
+## Suporte
+
+O curso conta com o suporte da própria comunidade e também dos professores da Webschool através do [Telegram](hhttps://t.me/webschoolkotlin) e do nosso [Fórum](https://github.com/Webschool-io/forum). Vamos utilizar as Issues nosso repositorio [Fórum](https://github.com/Webschool-io/forum) para poder documentar as duvidas, assim podendo manter um histórico que possa ajudar outras pessoas que venham a ter a mesma dúvida que você. Além disso o nosso fórum e conectado com o grupo do telegram para que sua dúvida possa ser respondida facilmente.
+
