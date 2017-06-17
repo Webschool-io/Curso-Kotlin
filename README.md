@@ -60,8 +60,8 @@ Cpf: 77950143568
 #### Modúlo 01 (Introdução a linguagem )
 
 - >**Variáveis(mutáveis e imutáveis), constantes e funções.**
-- >**Classes, enums,interface, propriedades e Smart casts.**
 - >**Loops, for in, ranger, if, else, when.**
+- >**Classes, enums,interface, propriedades e Smart casts.**
 - >**Uso de Arrays, list e extensions em Kotlin.**
 - >**Kotlin Nullable types and Non-Null Types.**
 - >**Lambdas(map, filter, entre outros).**
