@@ -57,6 +57,8 @@ Cpf: 77950143568
 
 ### Ementa
 
+#### Modúlo 01 (Introdução a linguagem )
+
 - >**Variáveis(mutáveis e imutáveis), constantes e funções.**
 - >**Classes, enums,interface, propriedades e Smart casts.**
 - >**Loops, for in, ranger, if, else, when.**
@@ -67,6 +69,14 @@ Cpf: 77950143568
 - >**ListView para exibição de uma lista de nomes.**
 - >**A criação de um menu com opções para diferentes activitys.** 
 - >**Criação de abas no aplicativo.**
+
+
+#### Modúlo 02 (Avançando com Android)
+
+- >
+- >
+- >
+- >
 
 ### Certificado
 
