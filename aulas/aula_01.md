@@ -49,7 +49,7 @@ Existem duas formas de declarar uma variável em kotlin:
  
 val - referência imutável. Quando declarado desta forma a variável depois de inicializar seu valor, não pode ser alterado.
  
-var - referência mutável. Seu valor não pode ser alterado.
+var - referência mutável. Seu valor pode ser alterado.
  
  
 É aconselhável que você declare sempre suas variáveis em kotlin usando o val. Declare var se for extremamente necessário evitando efeitos colaterais futuros.
