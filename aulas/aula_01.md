@@ -44,6 +44,23 @@ x = 25
 var color = “red”
 color = 10 //Esse código não compila
 ``` 
+ <b> Digamos que eu queira converter uma string em um int, como eu faria?</b>
+ 
+ Usaria o metódo toInt() para convertê-lo em inteiro
+ 
+ Exemplo:
+ 
+ ```kotlin 
+ var numberFour : String = "4"
+ numberFour.toInt() // e voilá... aparece na tela 4
+ ```
+ 
+ <b> Se eu quiser converter um Double?</b>
+ 
+ ```kotlin 
+ var numberDouble : String = "4000"
+ numberFour.toDouble() // e voilá... aparece na tela 4000.0
+ ```
  
 Existem duas formas de declarar uma variável em kotlin:
  
@@ -244,6 +261,11 @@ Funções com argumentos, retorno e chaves:
 ```kotlin
 fun calc (numberOne:Int, numberTwo: Int): Int { return numberOne + numberTwo }
 ```
+
+Funções Locais e um exemplo básico de seu uso:
+
+//TODO |^
+
 
 E agora, vamos aprender um pouco de Android?
 calma,  e aguardem os videos...
