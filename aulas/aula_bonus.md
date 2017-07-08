@@ -82,6 +82,17 @@ O que me vem a cabeça neste momento é o exemplo clássico da média das 03 no
 ## Da forma mais escrachada possível.
 
 ```kotlin
+
+val nota_um = 1
+val nota_dois:Int = 0
+val nota_tres:Int = 2
+val media: Double = (nota_um + nota_dois + nota_tres)/ 3.toDouble()
+val max = if (media >= 7) print("Parabéns garoto!") else print("Ops... precisa melhorar")
+
+```
+## Um pouco melhor com o map e o filter
+
+```kotlin
    val notas = listOf<Int>(7, 6, 10)
     
     //O método get() Pega  a posição do array
