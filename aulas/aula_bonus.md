@@ -76,8 +76,43 @@ fun main(args: Array<String>) { //Aqui é onde tudo acontece
 ```
 Muito mais légivel, não? ficou dahora!
 
+Vamos citar um exemplo, que não está nos exemplos do Suissa?
+O que me vem a cabeça neste momento é o exemplo clássico de quando tiramos a média das 03 notas do aluno que aprendemos como exemplo quando estavámos aprendendo a programar usando lógica de algoritmos.
+
+## Da forma mais escrachada possível.
+
+```kotlin
+   val notas = listOf<Int>(7, 6, 10)
+    
+    //O método get() Pega  a posição do array
+    
+   val media  : Double = (notass.get(0) + notass.get(1) + notass.get(2) ) / 3.toDouble()
+   notas.map { media }.filter { it > 6 }
+  
+```
+Funciona mas não é légivel e nem elegante.
+
+## Um exemplo elegante e com o uso do método sumBy()
+
+```kotlin
+  
+    //O método sumBy() soma cada um das suas posições e mostra seu resultado
+    
+    val notas = listOf<Int>(1,2,3)
+    
+    val media  : Double = (soma.sumBy { it  }) / 3.toDouble()// toDouble converte para que o resultado seja double no final
+```
 
 
+Não é bonito de ver?
+
+Se interessou por Kotlin, faça nosso curso, participe do grupo no Telegram e se inscreva em nosso curso aqui no Github
+
+## Github
+*https://github.com/Webschool-io/Curso-Kotlin*
+
+## Telegram
+*https://t.me/webschoolkotlin*
 
 
 
