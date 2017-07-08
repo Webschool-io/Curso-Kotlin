@@ -8,7 +8,7 @@ Aqui neste link você pode ter acesso as aulas do Suissa:
 *https://github.com/suissa/Curso-refatoracao-para-js-funcional/blob/master/aulas/aula01%20-%20Como%20solucionar%20um%20problema/readme.md*
 
 
-Para quem não se lembra, os números primos tem apenas dois divisores naturais, o número  1 e ele mesmo. Sendo que o número  é o único número par que é primo pois é divisivel por um e por ele mesmo.
+Para quem não se lembra, os números primos tem apenas dois divisores naturais, o número  1 e ele mesmo. Sendo que o número  2 é o único número par que é primo pois é divisivel por um e por ele mesmo.
 
 # Exemplo em Js imperativo do curso do Suissa:
 
