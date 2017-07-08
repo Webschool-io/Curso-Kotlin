@@ -86,7 +86,7 @@ O que me vem a cabeça neste momento é o exemplo clássico da média das 03 no
     
     //O método get() Pega  a posição do array
     
-   val media  : Double = (notass.get(0) + notass.get(1) + notass.get(2) ) / 3.toDouble()
+   val media  : Double = (notas.get(0) + notas.get(1) + notas.get(2) ) / 3.toDouble()
    notas.map { media }.filter { it > 6 }
   
 ```
