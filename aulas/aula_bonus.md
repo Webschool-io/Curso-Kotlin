@@ -48,7 +48,10 @@ fun isPrime(num:Int) :Boolean {
 Gostou?
 Então como ficaria esse mesmo exemplo com o uso das lambdas?
 
-Veja aqui o seu significado:
+A grande sacada das lambdas é que ao invés de implementar algo genérico para solucionar um problema( o que custaria talvez algumas linhas ), eu posso me beneficiar de funções poderosas da API nativa da própria linguagem, tornando o código mais légivel e profissional. O uso de metódos map, filter são exemplos de como resolver facilmente certos problemas de programação.
+
+
+Significado de lambdas, segundo o Wikipedia:
 *https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda*
 
 
