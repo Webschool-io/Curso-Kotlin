@@ -77,7 +77,7 @@ fun main(args: Array<String>) { //Aqui é onde tudo acontece
 Muito mais légivel, não? ficou dahora!
 
 Vamos citar um exemplo, que não está nos exemplos do Suissa?
-O que me vem a cabeça neste momento é o exemplo clássico de quando tiramos a média das 03 notas do aluno que aprendemos como exemplo quando estavámos aprendendo a programar usando lógica de algoritmos.
+O que me vem a cabeça neste momento é o exemplo clássico da média das 03 notas dos alunos.
 
 ## Da forma mais escrachada possível.
 
