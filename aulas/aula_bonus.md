@@ -1,9 +1,9 @@
 # Aula bônus
 
 Conversando com meu amigo Suissa, tive a ideia de pegar emprestado alguns dos exercícios do seu curso de refatoração em Js.
-e mostrar como fica esse mesmo código em kotlin. Esses exercicios terão uma abordagem matemática, e um bom passeio pela programação funcional, já que considero que esse é o mais importante paradigma que existe no Kotlin; a programação funcional. Acreditamos que todo programador deve ter uma bom entendimento de matemática e o uso da programação funcional pode ser de grande utilidade para o entendimento do conceito de imutabilidade que existe no kotlin. Nesse primeiro momento vou utilizar o exemplo dos números primos e um pouco do que pode ser feito com o uso das lambdas em Kotlin.
+e mostrar como fica esse mesmo código em kotlin. Esses exercícios terão uma abordagem matemática, e um bom passeio pela programação funcional, já que considero que esse é o mais importante paradigma que existe no Kotlin; a programação funcional. Acreditamos que todo programador deve ter uma bom entendimento de matemática e o uso da programação funcional pode ser de grande utilidade para o entendimento do conceito de imutabilidade que existe no kotlin. Nesse primeiro momento vou utilizar o exemplo dos números primos e um pouco do que pode ser feito com o uso das lambdas em Kotlin.
 
-Aqui neste link você pode ter acesso as aulas do Suissa:
+Aqui neste link você pode ter acesso as aulas do Suissa e ao exemplo dos números primos:
 
 *https://github.com/suissa/Curso-refatoracao-para-js-funcional/blob/master/aulas/aula01%20-%20Como%20solucionar%20um%20problema/readme.md*
 
