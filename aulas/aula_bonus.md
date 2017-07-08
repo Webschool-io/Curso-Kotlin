@@ -1,7 +1,7 @@
 # Aula bônus
 
-Conversando com meu amigo Suissa, tive a ideia de pegar emprestado alguns dos exercícios do seu curso de refatoração em Js.
-e mostrar como fica esse mesmo código em kotlin. Esses exercícios terão uma abordagem matemática, e um bom passeio pela programação funcional, já que considero que esse é o mais importante paradigma que existe no Kotlin; a programação funcional. Acreditamos que todo programador deve ter uma bom entendimento de matemática e o uso da programação funcional pode ser de grande utilidade para o entendimento do conceito de imutabilidade que existe no kotlin. Nesse primeiro momento vou utilizar o exemplo dos números primos e um pouco do que pode ser feito com o uso das lambdas em Kotlin.
+Conversando com meu amigo Suissa, tive a ideia de pegar emprestado alguns dos exercícios do seu curso de refatoração em Js 
+e mostrar como fica esse mesmo código em kotlin. Esses exercícios terão uma abordagem matemática, e um bom passeio pela programação funcional, já que considero que esse é o mais importante paradigma que existe no Kotlin. Acreditamos que todo programador deve ter uma bom entendimento de matemática e o uso da programação funcional pode ser de grande utilidade para o entendimento do conceito de imutabilidade que existe no kotlin. Nesse primeiro momento vou utilizar o exemplo dos números primos e um pouco do que pode ser feito com o uso das lambdas em Kotlin. A principio como vocês devem ver no github do Suissa, nós queremos saber se o 10002,10003 são primos.
 
 Aqui neste link você pode ter acesso as aulas do Suissa e ao exemplo dos números primos:
 
@@ -45,15 +45,41 @@ fun isPrime(num:Int) :Boolean {
 
 ```
 
-Gostou?
-Então como ficaria esse mesmo exemplo com o uso das lambdas?
+Gostou, e como ficaria esse mesmo exemplo com o uso das lambdas?
 
-A grande sacada das lambdas é que ao invés de implementar algo genérico para solucionar um problema( o que custaria talvez algumas linhas ), eu posso me beneficiar de funções poderosas da API nativa da própria linguagem, tornando o código mais légivel e profissional. O uso de metódos map, filter são exemplos de como resolver facilmente certos problemas de programação.
+A grande sacada das lambdas é que ao invés de implementar algo genérico para solucionar um problema( o que custaria talvez algumas linhas de código ), eu posso me beneficiar de funções poderosas da API nativa da própria linguagem, tornando o código mais légivel e profissional. O uso de metódos map, filter(funções usadas para Colections) são exemplos de como resolver facilmente certos problemas de programação.
 
 
 Significado de lambdas, segundo o Wikipedia:
 *https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda*
 
 
-Continuo amanhã...
+# O mesmo exemplo com o uso de lambdas:
+
+
+## Com vocês no palco principal, o cara mais importante da galera: o main, onde tudo pode acontecer
+
+```kotlin
+
+fun main(args: Array<String>) { //Aqui é onde tudo acontece
+    
+    val numbersPrimes = arrayOf(10_002,10_003) //Pegamos o 10002 10003, como tinhamos falado
+    
+    //a mágica das lambdas
+    val isPrime = { numbersPrimes  :Int -> (numbersPrimes % 2 == 0 && numbersPrimes !== 2 || numbersPrimes == 1) }
+    
+    numbersPrimes.map(isPrime) // O uso do método map
+    print(numbersPrimes)
+    
+}
+
+```
+Muito mais légivel, não? ficou dahora!
+
+
+
+
+
+
+
 
