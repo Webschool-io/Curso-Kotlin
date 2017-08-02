@@ -262,11 +262,6 @@ Funções com argumentos, retorno e chaves:
 fun calc (numberOne:Int, numberTwo: Int): Int { return numberOne + numberTwo }
 ```
 
-Funções Locais e um exemplo básico de seu uso:
-
-//TODO |^
-
-
 E agora, vamos aprender um pouco de Android?
 calma,  e aguardem os videos...
 
