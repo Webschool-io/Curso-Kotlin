@@ -1,4 +1,4 @@
-# Aula 02 (Um pouco mais  da linguagem kotlin com mais um pouco com Android)
+# Aula 02
 
 Olá, esta é a segunda aula escrita do curso de Kotlin feito pela Webschool.io para você que deseja aprender sobre Kotlin.
 Eu sou Anderson Faro e será um prazer fazer esse curso para você. Nessa segunda aula escrita, aprenderemos:
