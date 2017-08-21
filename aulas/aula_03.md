@@ -1,7 +1,7 @@
 
 # Aula 03 
 
-Olá, esta é nossa primeira aula escrita do curso de Kotlin feito pela Webschool.io para você que deseja aprender sobre esta nova linguagem para desenvolvimento de aplicativos mobile Android adotada pela Google.
+Olá, esta é nossa terceira aula escrita do curso de Kotlin feito pela Webschool.io para você que deseja aprender sobre esta nova linguagem para desenvolvimento de aplicativos mobile Android adotada pela Google.
 Eu sou Anderson Faro e será um prazer fazer esse curso para você. Nessa terceira aula escrita, aprenderemos:
 
 - >**Nullable types, Non-Null Types e
