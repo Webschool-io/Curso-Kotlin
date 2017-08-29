@@ -73,6 +73,12 @@ Mas o porquê disso?
 ### Sempre que possível use o operador ?
 
 
+
+
+
+
+
+
 - >**lambdas(map, filter, entre outros)**
 
 Vimos em nossas aulas bônus *https://github.com/Webschool-io/Curso-Kotlin/blob/master/aulas/aula_bonus.md* o uso de lambdas e seus benefícios.
