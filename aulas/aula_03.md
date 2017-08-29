@@ -17,7 +17,7 @@ lambdas(map, filter, etc).**
 
 # Na prática
  
-- >**Nullable types, Non-Null Types e.**
+- >**Nullable types, Non-Null Types.**
  
  Imagine que tenhamos algo como isso:
 
