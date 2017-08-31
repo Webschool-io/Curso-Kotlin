@@ -59,7 +59,7 @@ color = 10 //Esse código não compila
  
  ```kotlin 
  var numberDouble : String = "4000"
- numberFour.toDouble() // e voilá... aparece na tela 4000.0
+ numberDouble.toDouble() // e voilá... aparece na tela 4000.0
  ```
  
 Existem duas formas de declarar uma variável em kotlin:
