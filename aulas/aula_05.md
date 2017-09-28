@@ -7,7 +7,7 @@ Eu sou Anderson Faro e será um prazer fazer esse curso para você. Nesta aula e
 - >**Criação de abas no aplicativo.**
 
 
-# Na prática um menu prático com algumas opções
+# Um menu prático com algumas opções
 
 
 ```kotlin
