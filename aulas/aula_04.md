@@ -100,3 +100,66 @@ class MainActivity : AppCompatActivity() {
 
 </android.support.constraint.ConstraintLayout>
 ```
+
+
+
+# Buttons e mensagens na tela
+
+
+Sem muita conversa...
+
+Para adicionar um botão no Android da forma mais tranquila...
+
+
+```xml
+
+<Button
+     android:id="@+id/botao"
+     android:layout_height="wrap_content"
+     android:layout_width="wrap_content"
+     android:text="alguma coisa" />
+
+```
+
+
+```kotlin
+
+package br.com.mylistapp
+
+import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_main.*
+
+class MainActivity : AppCompatActivity() {
+
+  override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        button.setOnClickListener {
+          
+          
+          //O uso do Toast para imprimir na tela a mensagem
+          
+          Toast.makeText(this, "Botão clicado! " , Toast.LENGTH_SHORT).show()
+          
+          //exibirMsg( )
+
+        }
+
+    }
+
+}
+
+//Com o uso das extensions
+
+fun MainActivity.exibirMsg( ) {
+
+    Toast.makeText(this, "Botão clicado com extensions! ", Toast.LENGTH_SHORT).show()
+
+}
+
+
+```
+
