@@ -7,7 +7,7 @@ Eu sou Anderson Faro e será um prazer fazer esse curso para você. Nesta aula e
 - >**Criação de abas no aplicativo.**
 
 
-# Na prática
+# Na prática um menu prático com algumas opções
 
 
 ```kotlin
@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
 
             R.id.pagina_um -> {
 
-                val intent = Intent(this@MainActivity, MainActivity::class.java)
+                val intent = Intent(this@MainActivity, PaginaUm::class.java)
 
                 startActivity(intent)
                 return true
@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
 
             R.id.pagina_dois -> {
 
-                val intent = Intent(this@MainActivity, MainActivity::class.java)
+                val intent = Intent(this@MainActivity, PaginaDois::class.java)
 
                 startActivity(intent)
                 return true
@@ -63,3 +63,29 @@ class MainActivity : AppCompatActivity() {
 
 
 ![](https://s26.postimg.org/6c2og6f6x/menu.png)
+
+
+# As opções para o menu ficam no xml de nome menu.xml dentro da pasta menu
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/pagina_um"
+
+        android:title="Página Um"
+        />
+
+    <item
+        android:id="@+id/pagina_dois"
+
+        android:title="Página Dois"
+        />
+
+
+</menu>
+
+
+```
