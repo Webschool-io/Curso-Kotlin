@@ -113,14 +113,20 @@ Para adicionar um botão no Android da forma mais tranquila...
 
 ```xml
 
-<Button
-     android:id="@+id/botao"
-     android:layout_height="wrap_content"
-     android:layout_width="wrap_content"
-     android:text="alguma coisa" />
-
+ <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Button"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 ```
 
+## Abaixo, faremos o botão funcionar com o click, com o uso do setOnClickListener
 
 ```kotlin
 
